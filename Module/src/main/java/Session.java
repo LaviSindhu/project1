@@ -2,10 +2,18 @@
 // a location, and a count of current vs. maximum participants.
 public class Session {
 
-    // TODO: declare fields, constructor, etc.
+    private int id;
+    private String title;
+    private String mentor;
+    private String date;
+    private String location;
+    private int maxParticipants;
+    private int currentParticipants;
 
-    public boolean register() {
-        // TODO: implement
-        return false;
-    }
-}
+    public Session(int id, String title, String mentor,
+                   String date, String location, int maxParticipants) {
+
+        this.id = id;
+        this.title = title;
+        this.mentor = mentor;
+        this.date = date;
