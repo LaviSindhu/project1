@@ -1,0 +1,38 @@
+Wednesday, September 16, 2026
+Started: 9:00 AM lab
+Met with partner in class. Reviewed the Project 1 requirements and starter code. Discussed
+the Session and SessionList classes and how the linked list would be used.
+Stopped: 10:00 AM
+
+Wednesday, September 16, 2026
+Started: 1:55 PM
+We started on the project. We worked on Session.java by adding the fields, constructor,
+getters, and register method. We then started testing the Session class with JUnit and verified that
+registering a participant works.
+Stopped: 2:40 PM
+
+Thursday, September 17, 2026
+Started: 3:10 PM
+We Continued testing Session.java, including getters, multiple registrations, and attempting to
+register when a session is full.
+Stopped: 3:35 PM
+
+Thursday, September 17, 2026
+Started: 3:35 PM
+Worked on SessionList.java using the provided Node class. Implemented adding sessions in
+chronological order, searching by ID and mentor, removing sessions, registering participants,
+and getting all sessions.
+Stopped: 4:20 PM
+
+Thursday, September 17, 2026
+Started: 4:20 PM
+Worked on SessionListTest.java. Tested adding sessions, date ordering, duplicate IDs,
+ID and mentor searches, removal, and participant registration.
+Stopped: 4:55 PM
+
+Thursday, September 17, 2026
+Started: 5:00 PM
+Connected SessionList to MainGUI. Implemented and tested the Add Session, Display, Search,
+Remove, and Register buttons. Tested the GUI with multiple sessions and
+confirmed that sessions display in chronological order.
+Stopped: 5:38 PM
