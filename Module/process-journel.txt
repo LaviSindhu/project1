@@ -19,20 +19,20 @@ Stopped: 3:35 PM
 
 Thursday, September 17, 2026
 Started: 3:35 PM
-Worked on SessionList.java using the provided Node class. Implemented adding sessions in
+we worked on SessionList.java using the provided Node class. We added sessions in
 chronological order, searching by ID and mentor, removing sessions, registering participants,
 and getting all sessions.
 Stopped: 4:20 PM
 
 Thursday, September 17, 2026
 Started: 4:20 PM
-Worked on SessionListTest.java. Tested adding sessions, date ordering, duplicate IDs,
+We worked on SessionListTest.java. Then we tested adding sessions, date ordering, duplicate IDs,
 ID and mentor searches, removal, and participant registration.
 Stopped: 4:55 PM
 
 Thursday, September 17, 2026
 Started: 5:00 PM
-Connected SessionList to MainGUI. Implemented and tested the Add Session, Display, Search,
-Remove, and Register buttons. Tested the GUI with multiple sessions and
+We were able to connect the SessionList to MainGUI. we implemented and tested the Add Session,
+Display, Search,Remove, and Register buttons. we also tested the GUI with multiple sessions and
 confirmed that sessions display in chronological order.
 Stopped: 5:38 PM
